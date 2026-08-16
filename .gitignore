@@ -1,0 +1,11 @@
+# Compiled binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug and VS Code directories
+.vscode/
+.vs/
+*.pdb
+*.ilk
